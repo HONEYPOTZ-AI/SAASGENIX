@@ -4,7 +4,7 @@ Welcome to the official repo for **SaaSgenix** — *Intelligent SaaS Automation 
 
 ## 🧠 Overview
 
-SaaSgenix is an enterprise-grade agentic AI platform designed to accelerate SaaS development. This branding kit includes visual and design assets to represent the SaaSgenix identity across digital and print media.
+SaaSgenix is an enterprise-grade agentic AI platform designed to accelerate SaaS development. This repo contains codebase and branding kit including visual and design assets to represent the SaaSgenix identity across digital and print media.
 
 ## 📦 Contents
 
