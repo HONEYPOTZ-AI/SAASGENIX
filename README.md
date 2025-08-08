@@ -14,6 +14,12 @@ SaaSgenix is an enterprise-grade agentic AI platform designed to accelerate SaaS
 - `typography.txt` — Typography recommendations (Google Fonts)
 - `LICENSE.txt` — MIT Non-Commercial License
 - `CONTRIBUTING.md` — Contributor guidelines
+- SaaSgenix terraform zip contains:
+-  📁 Module folders: auth0, postgresql, redis, prometheus, grafana, sentry, vault, okta
+• 📄 Each module contains a main.tf file
+• 📘 A top-level README.md with usage instructions
+• 🛡️ .gitignore configured for Terraform and sensitive files
+
 
 ## 🚀 Usage Instructions
 
