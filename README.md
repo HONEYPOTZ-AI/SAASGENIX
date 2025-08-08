@@ -44,7 +44,7 @@ We welcome contributions to improve the branding kit. Please read `CONTRIBUTING.
 ## 📬 Contact
 
 For commercial licensing or partnership inquiries, please contact:  
-**Email**: `team@saasgenix.ai`
+**Email**: `team@honeypotz.net
 
 ---
 
