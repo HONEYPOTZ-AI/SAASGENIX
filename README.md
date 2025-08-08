@@ -1,6 +1,6 @@
 # SaaSgenix
 
-Welcome to the official repo for **SaaSgenix** — *Intelligent SaaS Automation for Developers & Enterprise I*.
+Welcome to the official repo for **SaaSgenix** — Intelligent SaaS Automation for Developers & Enterprise.
 
 ## 🧠 Overview
 
