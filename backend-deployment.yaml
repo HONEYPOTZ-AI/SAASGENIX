@@ -1,0 +1,20 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: saasgenix-backend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: saasgenix-backend
+  template:
+    metadata:
+      labels:
+        app: saasgenix-backend
+    spec:
+      containers:
+      - name: backend
+        image: saasgenix/backend:latest
+        ports:
+        - containerPort: 8000
